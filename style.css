@@ -1,0 +1,40 @@
+/*Feuille de style de mon blog*/
+html
+{
+	background-color: black;
+}
+body
+{
+	position: relative;
+	background-color: gray;
+	height: 90vh;
+	width: 90vw;
+	margin: auto;
+	border-radius : 5px;
+}
+header
+{
+	background-color: red;
+	border-radius : 5px;
+	text-align: center;
+}
+footer
+{
+	width:90vw;
+	margin: auto;
+	background-color: blue;
+	border-radius : 5px;
+	text-align: center;
+}
+#corps
+{
+	background-color: green;
+	border-radius : 5px;
+}
+.message
+{
+	border : solid 2px black;
+	width: 90%;
+	margin : auto;
+	border-radius : 5px;
+}
