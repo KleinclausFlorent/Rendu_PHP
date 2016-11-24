@@ -1,3 +1,4 @@
+<!-- fichier contenant l'historique des messages du blog-->
 <?xml version="1.0"?>
 <forum>
-<message><pseudo>Obviousness</pseudo><titre>HIHIHI</titre><texte>Premier message de mon magnifique forum.&#xD;Bisous !!</texte><date>8/11/2016 &#xE0; 16:37</date></message></forum>
+<message><pseudo>Obviousness</pseudo><titre>HIHIHI</titre><texte>Premier message de mon magnifique forum.&#xD;Bisous !!</texte><date>8/11/2016 &#xE0; 16:37</date></message><message><pseudo>:o</pseudo><titre>la session est en place </titre><texte>Ca y est &#xE7;a marche :o :o</texte><date>24/11/2016 &#xE0; 15:02</date></message></forum>

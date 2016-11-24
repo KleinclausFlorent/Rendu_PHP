@@ -1,0 +1,8 @@
+<!-- fichier contenant les différents identifiants et mot de passe du blog -->
+<?xml version="1.0"?>
+<identifiants>
+	<utilisateur>
+		<id>Obviousness</id>
+		<mdp>password</mdp>
+	</utilisateur>
+</identifiants>

@@ -1,18 +1,10 @@
-<!--Feuille php gérant le footer-->
+<!--Feuille php gérant le formulaire d'envoi de message-->
 <footer>
 	<h1>Nouveau Message</h1>
 		<form id="newmessage" action="forum.php" method="POST">
-			<p>
-			<label for="pseudo">Pseudo : </label><input type="text" name="pseudo" />
-			<br/>
-			<br/>
-			<label for="titre">Titre : </label><input type="text" name="titre" />
-			<br/>		
-			<br/>
-			<label for="texte">Message : </label><textarea name="texte" form="newmessage" placeholder="Entrez votre message ici"></textarea>
-			<br/>
-			<br/>		
-			<input type="submit" value="Envoyer" />
-			</p>
+				<label for="pseudo">Pseudo : </label><input type="text" name="pseudo" required/><br/>
+				<label for="titre">Titre : </label><input type="text" name="titre" required/><br/>
+				<label for="texte">Message : </label><textarea name="texte" form="newmessage" placeholder="Entrez votre message ici" required ></textarea><br/>
+				<input type="submit" value="Envoyer" />
 		</form>
 </footer>
