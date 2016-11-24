@@ -23,10 +23,6 @@ BUT : Vérifier la correspondance entre l'identifiant et le mot de passe entrés
 		
 		for ($i = 0 ; $i < $Nbrutilisateur ; $i++ )
 		{
-			echo "<p>".$xml_utilisateur[$i]->getElementsBytagName('id')[0]->nodeValue."</p>";
-			echo "<p>".$xml_utilisateur[$i]->getElementsByTagName('mdp')[0]->nodeValue."</p>";
-			echo "<p>".$id."</p>";
-			echo "<p>".$password."</p>";
 			if ((( $xml_utilisateur[$i]->getElementsBytagName('id')[0]->nodeValue) == $id ) && (( $xml_utilisateur[$i]->getElementsByTagName('mdp')[0]->nodeValue) == $password))
 			{
 				$_SESSION['id'] = $id;

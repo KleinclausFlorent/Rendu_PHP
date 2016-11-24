@@ -49,7 +49,7 @@ BUT : Vérification de la variable de temps  de la session si elle existe on vé
 		<!-- Bouton de déconnexion qui renvoie à la page d'identification -->
 		<form id="deco" action="Connexion.php" method="POST">
 			<input name="deco" type="submit" value="Déconnexion" />
-		</form>";
+		</form>
 		
 		
 		<?php 
