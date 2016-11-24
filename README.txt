@@ -1,8 +1,8 @@
 Bonjour,
 
-Voici le rendu de mon blog en php. Veuillez ouvrir le fichier forum.php pour acc�der � mon forum.
+Voici le rendu de mon blog en php. Veuillez ouvrir le fichier forum.php pour acceder a mon forum.
 
-Le bouton "envoyer" ne r�actulise pas toujours la page. Une deuxi�me pression  ou l'actualisation de la page permet d'afficher le nouveau message.
+Le bouton "envoyer" ne reactulise pas toujours la page. Une deuxieme pression  ou l'actualisation de la page permet d'afficher le nouveau message.
 
 
 Version 2.0
