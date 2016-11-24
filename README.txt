@@ -7,7 +7,7 @@ Le bouton "envoyer" ne reactulise pas toujours la page. Une deuxieme pression  o
 
 Version 2.0
 
-Ajout de variable de session afin de g�rer la connexion des utilisateurs. Le mot de passe est : "password" et l'identifiant est : "Obviousness"
+Ajout de variable de session afin de gerer la connexion des utilisateurs. Le mot de passe est : "password" et l'identifiant est : "Obviousness"
 
  
 
