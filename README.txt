@@ -1,11 +1,13 @@
 Bonjour,
 
-Voici le rendu de mon blog en php. 
+Voici le rendu de mon blog en php. Veuillez ouvrir le fichier forum.php pour accï¿½der ï¿½ mon forum.
 
-Le bouton "envoyer" ne réactulise pas toujours la page. Une deuxième pression permet d'afficher le message ou l'actualisation de la page et l'affichage du nouveau message.
+Le bouton "envoyer" ne rï¿½actulise pas toujours la page. Une deuxiï¿½me pression  ou l'actualisation de la page permet d'afficher le nouveau message.
+
 
 Version 2.0
 
-Ajout de variable de session afin de gérer la connexion des utilisateurs. Le mot de passe est : "password" et l'identifiant est : "Obviousness"
+Ajout de variable de session afin de gï¿½rer la connexion des utilisateurs. Le mot de passe est : "password" et l'identifiant est : "Obviousness"
 
  
+
